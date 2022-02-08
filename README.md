@@ -9,3 +9,6 @@ E-Commerce UI flutter
 
 
 ![WhatsApp Image 2021-06-28 at 7 16 40 PM (2)](https://user-images.githubusercontent.com/64870452/123653200-60e71780-d846-11eb-810d-b19ce068228b.jpeg)
+
+
+![logo](https://user-images.githubusercontent.com/64870452/153059864-f6f35b05-6e0b-425e-9878-2a133b16278c.png)
